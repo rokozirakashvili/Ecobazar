@@ -12,7 +12,7 @@
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    color #666666;
+    color: #666666;
     border-bottom: solid lightgrey 1px;
     justify-content: space-around;
     flex-direction: row;
